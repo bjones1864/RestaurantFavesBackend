@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|c:\\users\\miwol\\source\\repos\\restaurantfaves\\restaurantfaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|solutionrelative:restaurantfaves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|c:\\users\\miwol\\source\\repos\\restaurantfaves\\restaurantfaves\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|solutionrelative:restaurantfaves\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|c:\\users\\miwol\\source\\repos\\restaurantfaves\\restaurantfaves\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|solutionrelative:restaurantfaves\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|c:\\users\\miwol\\source\\repos\\restaurantfaves\\restaurantfaves\\restaurantfaves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A55AE0D1-20C1-450B-8E04-2BA621405FC0}|RestaurantFaves\\RestaurantFaves.csproj|solutionrelative:restaurantfaves\\restaurantfaves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 112,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantFaves\\Program.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\Program.cs",
+              "RelativeToolTip": "RestaurantFaves\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:17:11.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantFaves\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantFaves\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:24:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RestaurantFaves\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "RestaurantFaves\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:07:53.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantFaves.csproj",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\RestaurantFaves.csproj",
+              "RelativeDocumentMoniker": "RestaurantFaves\\RestaurantFaves.csproj",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\RestaurantFaves\\RestaurantFaves\\RestaurantFaves.csproj",
+              "RelativeToolTip": "RestaurantFaves\\RestaurantFaves.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T18:06:45.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
